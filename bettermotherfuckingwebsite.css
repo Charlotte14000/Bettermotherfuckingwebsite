@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body
+{
+  margin:40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  front-size:18px;
+  color:#444;
+  padding:0 10px
+}
+  h1, h2, h3
+{
+  line-height: 1.2
+}
+
+#boutton_container {
+  height: 100px;
+  width:300px;
+
+  color: red;
+  font-family: helvetica;
+  font-size: 20px;
+  border: none
+  cursor:;
+}
+.button_container{
+  position:absolute;
+  top:300px;
+  width:100%;
+  left: 500px;
+  color: red;
+}
